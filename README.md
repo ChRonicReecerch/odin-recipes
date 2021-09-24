@@ -1,0 +1,1 @@
+Creating a mock site, using html, the terminal and VS all the new skills I am learning are being put into practice on this test site.   Loving me some Odin Project
